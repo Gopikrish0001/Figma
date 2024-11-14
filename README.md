@@ -34,6 +34,7 @@ Figma
 
 
 ## CODE:
+```
 FRIST PAGE:
 
 <div style="width: 444px; height: 929px; position: relative; background: #0ECFFA">
@@ -71,7 +72,7 @@ THIRD PAGE:
   <div style="left: 73px; top: 394px; position: absolute; color: black; font-size: 64px; font-family: Kavoon; font-weight: 400; word-wrap: break-word">     FOR</div>
   <div style="width: 473px; left: 43px; top: 481px; position: absolute; color: black; font-size: 48px; font-family: Kavoon; font-weight: 400; word-wrap: break-word">REGISTRATION.</div>
 </div>
-
+```
 
 ## OUTPUT:
 
